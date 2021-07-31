@@ -55,8 +55,12 @@ and I'm currently migrating to the mobile world.
 
 <img align="left" alt="Detox" src="https://img.shields.io/badge/-Detox-%2320232a?style=for-the-badge&logo=detox&logoColor=white"/>
 
+<br>
+<br>
 
+### Stats
 
+![Fede's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedeerbes&show_icons=true&theme=onedark&count_private=true&custom_title=fede's%20github%20stats)
 
 <br>
 <br>
