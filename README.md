@@ -1,20 +1,15 @@
 ### Hola extraño 👋
 
-I'm fede, a frontend developer from Argentina 🇦🇷, 
-and I'm currently migrating to the mobile world.
+I'm fede, a frontend developer focused in React Native, iOS and blockchain development from Argentina 🇦🇷, 
 
-- 🔭  Working on https://github.com/lemonatio
-- 🌱  Learning Android (Kotlin) and iOS (Swift)
-- ✌ Trying to become a digital nomad
+- 🔭  Working on https://github.com/secretkeylabs
+- 🌱  Learning Android (Kotlin), iOS (Swift) and BTC blockchain
+- ✌ Full time nomad migrating to part time nomad 😅
 <br>
 
 ## Find me in 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fedeerbes/)
-
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/fedeer)
-
-[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:fedeerbes@gmail.com)
 
 <br>
 <br>
@@ -22,8 +17,6 @@ and I'm currently migrating to the mobile world.
 ## Expertise
 
 ### Programming Languages
-
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -39,10 +32,6 @@ and I'm currently migrating to the mobile world.
 
 <img align="left" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<img align="left" alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-
-<img align="left" alt="Apollo-GraphQL" src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
-
 <br>
 
 ### CI / Testing
@@ -55,12 +44,7 @@ and I'm currently migrating to the mobile world.
 
 <img align="left" alt="Detox" src="https://img.shields.io/badge/-Detox-%2320232a?style=for-the-badge&logo=detox&logoColor=white"/>
 
-<br>
-<br>
-
-### Stats
-
-![Fede's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedeerbes&show_icons=true&theme=onedark&count_private=true&custom_title=fede's%20github%20stats)
+<img align="left" alt="Maestro" src="https://img.shields.io/badge/-Maestro-%2320232a?style=for-the-badge&logo=maestro&logoColor=white"/>
 
 <br>
 <br>
