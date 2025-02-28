@@ -2,7 +2,7 @@
 
 I'm fede, a frontend developer focused in React Native, iOS and blockchain development from Argentina 🇦🇷, 
 
-- 🔭  Working on https://github.com/secretkeylabs
+- 🔭  Mobile Lead @ https://github.com/secretkeylabs
 - 🌱  Learning Android (Kotlin), iOS (Swift) and BTC blockchain
 - ✌ Full time nomad migrating to part time nomad 😅
 <br>
